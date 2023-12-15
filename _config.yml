@@ -7,13 +7,13 @@ url: https://simeng-liu.github.io/
 # Owner/author information
 owner:
   name: Simeng Liu
-  avatar: /images/me.jpg
+  avatar: photo.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: simenl3@uci.edu
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://drive.google.com/file/d/1FtjSHEjZ9-QtiwswdM90l-1rqfmY8xhv/view?usp=sharing
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: Simeng-Liu
-  linkedin: Simeng-Liu
+  linkedin: simeng-liu-3b9351215
 
   # lastfm:
   # tumblr:
@@ -25,24 +25,24 @@ owner:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: About Me
-    url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Teams
-    url: /teams/
-  - title: Hobbies
-    url: /hobbies/
-  # - title: Notes
-    # url: /notes/
-  - title: Blogs
-    url: /blogs/
+# links:
+#   - title: About Me
+#     url: /
+#   - title: Publications
+#     url: /publications/
+#   - title: Awards
+#     url: /awards/
+#   - title: Teams
+#     url: /teams/
+#   - title: Hobbies
+#     url: /hobbies/
+#   # - title: Notes
+#     # url: /notes/
+#   - title: Blogs
+#     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: America/Los_Angeles
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -70,10 +70,8 @@ kramdown:
 
 
 # disqus settings:
-disqus:
-  shortname: lancecai
+# disqus:
+#   shortname: lancecai
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-# Latest update in 2023/12/10 by Hanlin Cai.
